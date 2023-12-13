@@ -10,7 +10,7 @@ FIBA World Cup,409,9409,141,1000,default (cap/2),default (cap/2),5,5,5,0,0,0,def
 NHL,6,9006,11,3000,default (cap/2),default (cap/2),4,5,5,default (cap/2),5,0,default,default,10
 Hockey World Championship,33,9033,141,1000,default (cap/2),default (cap/2),7,9,9,0,0,0,default,default,1
 UFC,7,9007,3,3000,default (cap/2),default (cap/2),3,default,0,0,0,0,default,default,
-Boxing,9196,18196,517,1000,0,0,7,0,0,0,0,0,default,default,
+Boxing,9196,18196,517,1000,0,0,4,0,0,0,0,0,default,default,
 MLS,10,9010,3,2500,default (cap/2),default (cap/2),default,7,7,0,0,0,default,default,
 EPL,11,9011,3,3000,default (cap/2),default (cap/2),default,5,5,0,0,0,default,default,
 France League 1,12,9012,3,3000,default (cap/2),default (cap/2),default,5,5,0,0,0,default,default,
