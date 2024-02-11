@@ -1,6 +1,6 @@
 sportName,sportId,tagId,bookmakerId,cap,totalsCap,handicapsCap,minSpread,minSpreadTotals,minSpreadHandicaps,propsCap,propsSpread,dynamicLiquidityCutOff,minSupportedOdds,maxSpreadForSport,sgpFee
 NCAAF,1,9001,3,2000,default (cap/2),default (cap/2),default,5,5,0,0,0,default,default,10
-NFL,2,9002,3,25000,default (cap/2),default (cap/2),2,2,2,5000,4,86400,default,default,10
+NFL,2,9002,3,40000,default (cap/2),default (cap/2),2,2,2,5000,4,86400,default,default,10
 MLB,3,9003,3,5000,default (cap/2),default (cap/2),4,5,5,default (cap/2),5,0,default,default,10
 NBA,4,9004,11,3000,default (cap/2),default (cap/2),default,4,4,1250,7,43200,default,default,5
 NCAAB,5,9005,19,1500,default (cap/2),default (cap/2),5,5,5,0,0,0,default,default,
