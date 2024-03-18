@@ -13,3 +13,5 @@ Seria A,15,9015,3,3000,default (cap/2),default (cap/2),default,5,5,0,0,0,default
 Champions League,16,9016,3,3000,default (cap/2),default (cap/2),default,5,5,0,0,0,default,default,
 EURO Qualification,50,9050,517,2500,default (cap/2),default (cap/2),5,6,6,0,0,0,default,default,
 World Cup Qualifications CONMBOL,10199,19199,517,2500,default (cap/2),default (cap/2),4,6,6,0,0,0,default,default,
+NCAAB,5,9005,3,3000,default (cap/2),default (cap/2),3,3,3,1000,5,0,default,default,
+CONCACAF League of Nations,9821,18821,517,2000,default (cap/2),default (cap/2),default,5,5,0,0,0,default,default,
