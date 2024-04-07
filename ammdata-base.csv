@@ -2,7 +2,7 @@ sportName,sportId,tagId,bookmakerId,cap,totalsCap,handicapsCap,minSpread,minSpre
 NFL,2,9002,3,7000,default (cap/2),default (cap/2),default,4,4,2000,5,86400,default,default,10
 MLB,3,9003,6,5000,default (cap/2),default (cap/2),4,5,5,default (cap/2),5,0,default,default,10
 NBA,4,9004,6,3000,default (cap/2),default (cap/2),default,4,4,1250,7,43200,default,default,5
-NCAAB,5,9005,14,3000,default (cap/2),default (cap/2),3,3,3,1000,5,0,default,default,5
+NCAAB,5,9005,19,3000,default (cap/2),default (cap/2),3,3,3,1000,5,0,default,default,5
 WNBA,8,9008,3,default,default (cap/2),default (cap/2),default,default,default,0,0,0,default,default,
 NHL,6,9006,14,3000,default (cap/2),default (cap/2),4,5,5,default (cap/2),5,0,default,default,10
 MLS,10,9010,14,2500,default (cap/2),default (cap/2),default,7,7,0,0,0,default,default,
