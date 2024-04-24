@@ -45,7 +45,7 @@ CONCACAF League of Nations,9821,18821,517,2000,default (cap/2),default (cap/2),d
 World Cup Qualifications CONMBOL,10199,19199,517,2500,default (cap/2),default (cap/2),4,6,6,0,0,0,default,default,
 Europa Conference League,10216,19216,517,3000,default (cap/2),default (cap/2),4,7,7,0,0,0,default,default,
 Tennis GS,153,9153,120,2000,default (cap/2),default (cap/2),4,4,4,0,0,0,default,default,
-Tennis Masters 1000,156,9156,120,1000,default (cap/2),default (cap/2),6,8,8,0,0,0,default,default,
+Tennis Masters 1000,156,9156,517,1000,default (cap/2),default (cap/2),6,8,8,0,0,0,default,default,
 F1,445,9445,154,3000,0,0,0,0,0,0,0,0,50,5,
 Moto GP,497,9497,517,3000,0,0,0,0,0,0,0,0,50,5,
 CsGo,9977,18977,425,1000,0,0,6,8,8,0,0,0,default,default,
