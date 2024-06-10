@@ -12,6 +12,7 @@ Bundesliga,13,9013,14,3000,default (cap/2),default (cap/2),default,5,5,0,0,0,def
 La Liga,14,9014,14,3000,default (cap/2),default (cap/2),default,5,5,0,0,0,default,default,
 Seria A,15,9015,14,3000,default (cap/2),default (cap/2),default,5,5,0,0,0,default,default,
 Champions League,16,9016,14,3000,default (cap/2),default (cap/2),default,5,5,0,0,0,default,default,
-EURO Qualification,50,9050,517,2500,default (cap/2),default (cap/2),5,6,6,0,0,0,default,default,
+COPA AMERICA,44,9044,517,2000,default (cap/2),default (cap/2),default,default,default,0,0,0,default,default,
+EURO,50,9050,517,2500,default (cap/2),default (cap/2),5,6,6,0,0,0,default,default,
 World Cup Qualifications CONMBOL,10199,19199,517,2500,default (cap/2),default (cap/2),4,6,6,0,0,0,default,default,
 CONCACAF League of Nations,9821,18821,517,2000,default (cap/2),default (cap/2),default,5,5,0,0,0,default,default,
